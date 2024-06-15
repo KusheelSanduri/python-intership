@@ -1,1 +1,1 @@
-# python-intership-task-1
+# Python programming Intership tasks
